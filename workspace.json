@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "game-frontend": "apps/game-frontend",
+    "game-frontend-e2e": "apps/game-frontend-e2e"
+  }
+}
